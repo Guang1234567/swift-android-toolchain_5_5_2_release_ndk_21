@@ -26,7 +26,7 @@ git clone https://github.com/Guang1234567/swift-android-architecture.git
 set
 
 ```properies
-swift-android.dir=/Users/XXX/dev_kit/sdk/swift_source/swift-android-5.3.1-release-ndk21
+swift-android.dir=/Users/XXX/dev_kit/sdk/swift_source/swift-android-5.5.2-release-ndk21
 ```
 
 in `local.properies` file.
