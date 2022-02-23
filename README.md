@@ -41,11 +41,11 @@ cd your swift project, then type :
 
 ```bash
 #1
-export SWIFT_ANDROID_HOME=$HOME/dev_kit/sdk/swift_source/swift-android-5.3.1-release-ndk21
+export SWIFT_ANDROID_HOME=$HOME/dev_kit/sdk/swift_source/swift-android-5.5.2-release-ndk21
 
 #2
 export SWIFT_ANDROID_ARCH=aarch64
 
 #3
-${SWIFT_ANDROID_HOME}/build-tools/1.9.6-swift5/swift-build --configuration debug -Xswiftc -DDEBUG -Xswiftc -g -v
+${SWIFT_ANDROID_HOME}/build-tools/1.9.7-swift5.4/swift-build --configuration debug -Xswiftc -DDEBUG -Xswiftc -g -v
 ```
